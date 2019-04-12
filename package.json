@@ -1,0 +1,28 @@
+{
+  "name": "random-on-iteration",
+  "version": "1.0.0",
+  "description": "On every iteration, generates a random number, optionally seeded, between min and max",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntropy-studio-blocks/random-on-iteration.git"
+  },
+  "keywords": [
+    "syntropy-studio-block",
+    "input",
+    "random",
+    "seeded"
+  ],
+  "author": "Angus Russell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syntropy-studio-blocks/random-on-iteration/issues"
+  },
+  "homepage": "https://github.com/syntropy-studio-blocks/random-on-iteration#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.1"
+  }
+}
